@@ -19,7 +19,6 @@ Furthermore, we’re committed to bridging the information gap by crafting compr
 - itsmevittin
 - Psydenst
 - pedroarnaldo
-- ukinaa
 - supermeia
 
 
