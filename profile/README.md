@@ -1,4 +1,5 @@
 #  TupiNymQuim
+![image](https://github.com/TupiNymQuim/.github/assets/95882160/3cfa077e-96cd-4c21-a0a5-5fd36e0e5f42)
 
 ### TupiNymQuim is an organization of software engineer students in Brazil focused on developing projects for the Nym ecosystem.
 ## Manifesto
@@ -20,6 +21,7 @@ Furthermore, we’re committed to bridging the information gap by crafting compr
 - Psydenst
 - pedroarnaldo
 - supermeia
+- EduardaDT
 
 
-## Reach us [here](https://t.me/+jO97cIbMEbowZWRh/)
+## Reach us [here](https://t.me/tupinymquim)
